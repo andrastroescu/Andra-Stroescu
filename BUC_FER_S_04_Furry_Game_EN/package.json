@@ -1,0 +1,19 @@
+{
+  "name": "buc_fer_s_04_furry_game_en",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"https://mentor.coderslab.pl/wp-content/uploads/2018/12/CL_IT_logo_ENG_1040x261_black_YELLOW-1.png\" width=\"400\"><img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrastroescu/BUC_FER_S_04_Furry_Game_EN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrastroescu/BUC_FER_S_04_Furry_Game_EN/issues"
+  },
+  "homepage": "https://github.com/andrastroescu/BUC_FER_S_04_Furry_Game_EN#readme"
+}

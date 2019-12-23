@@ -1,0 +1,28 @@
+{
+  "name": "furry_game",
+  "version": "1.0.0",
+  "description": "A game about a furry",
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.1"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodersLab-RO/BUC_FER_S_02_Furry_Game_EN.git"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodersLab-RO/BUC_FER_S_02_Furry_Game_EN/issues"
+  },
+  "homepage": "https://github.com/CodersLab-RO/BUC_FER_S_02_Furry_Game_EN#readme"
+}
