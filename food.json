@@ -1,0 +1,123 @@
+{ 
+	"food": [
+	{
+	"id": 1,
+	"name": "Shakshouka",
+	"description": "Shakshouka is a dish of eggs poached in a sauce of tomatoes, chili peppers and garlic, and commonly spiced with cumin, paprika, cayenne pepper and nutmeg. The dish has existed in Mediterranean for centuries.",
+	"calories": "304",
+	"dishtype": "Lunch",
+	"lifestyle": "Vegetarian", 
+	"ingredients": "Eggs, chickpeas, herbs, veggies, tomato sauce",
+	"time": "45 minutes",
+	"image": "./assets/images/shukshuka.jpg"
+	},
+	
+	{
+	"id": 2,
+	"name": "Egg salad",
+	"description": "Egg salad is a dish made primarily of chopped hard-boiled eggs and mayonnaise, often including other ingredients such as celery or mustard, which is frequently used as a sandwich spread.",
+	"calories": "102",
+	"dishtype": "Breakfast",
+	"lifestyle": "Vegetarian",
+	"ingredients": "Eggs, mayonnaise, spices, herbs",
+	"time": "30 minutes",
+	"image": "./assets/images/Egg-Salad-1.jpg"
+	},
+	
+	{
+	"id": 3,
+	"name": "Vegan carbonara",
+	"description": "A traditional carbonara is made with eggs, bacon or pancetta, and cheese. So it’s basically just about the least vegan dish there could be… which is why I had so much fun playing around in the kitchen and veganizing it! Not only did I figure out a way to get the creamy blissful sauce and the chewy delicious bites, but this turned out to be a super fast and easy vegan carbonara recipe.",
+	"calories": "350",
+	"dishtype": "Dinner",
+	"lifestyle": "Vegan",
+	"ingredients": "Pasta, olive oil, yellow onion, garlic, spices",
+	"time": "20 minutes",
+	"image": "./assets/images/DSC_0045.jpg"
+	},
+	
+	{
+	"id": 4,
+	"name": "Asian Spicy Cucumber Salad",
+	"description": "Fresh & delicious! Just what you need on a hot summer day. Easy to make and perfect for a detox diet!",
+	"calories": "107",
+	"dishtype": "Lunch",
+	"lifestyle": "Lacto-Ovo Vegetarian",
+	"ingredients": "Cucumber, sesam, vinegar, marine salt",
+	"time": "10 minutes",
+	"image": "./assets/images/asian-cucumber-salad-8.jpg"
+	},
+	
+	{
+	"id": 5,
+	"name": "Ful medames",
+	"description": "Ful medames or simply fūl, is a stew of cooked fava beans served with vegetable oil, cumin, and optionally with chopped parsley, garlic, onion, lemon juice, chili pepper and other vegetable, herb and spice ingredients.",
+	"calories": "200",
+	"dishtype": "Breakfast",
+	"lifestyle": "Vegetarian",
+	"ingredients": "Fava beans, lemon juice, onion, parsley, garlic",
+	"time": "30 minute",
+	"image": "./assets/images/fulmedames.jpg"
+	},
+	
+	{
+	"id": 6,
+	"name": "Sweet avocado smoothie",
+	"description": "It is super delicious and perfect as a late snack! The avocado made it creamy and the banana and berries added sweetness.",
+	"calories": "288",
+	"dishtype": "Dinner",
+	"lifestyle": "Raw-vegan",
+	"ingredients": "Avocado, lime juice, brown sugar, vanilla syrup",
+	"time": "15 minutes",
+	"image": "./assets/images/avocadosmoothie.jpg"
+	},
+	
+	{
+	"id": 7,
+	"name": "Grilled sweet potatoes",
+	"description": "Sure, we could always go for a regular russet potato, but when it comes to sweet potatoes, the possibilities are truly endless. Don’t believe us? Just wait until you see these deliciously diverse sweet potato recipes, all of which prove that every fall dish can only get exponentially better with this festive flavor.",
+	"calories": "400",
+	"dishtype": "Lunch",
+	"lifestyle": "Vegetarian",
+	"ingredients": "Sweet potatoes, tofu, salad dressing, olive oil, honey",
+	"time": "60 minutes",
+	"image": "./assets/images/grilledpotatoes.jpg"
+	},
+	
+	{
+	"id": 8,
+	"name": "Spaghetti squash",
+	"description": "Move over, pasta! There’s a new satisfying meal to that will fulfill all your quick, easy dinner needs. When cooler weather sets in, spaghetti squash recipes reign supreme. Though there's plenty of other squash recipes out there—butternut squash, acorn squash, or winter squash, just to name a few—we often prefer spaghetti squash for its ability to transformed into a variety of flavors and pasta recipes.",
+	"calories": "300",
+	"dishtype": "Lunch",
+	"lifestyle": "Lacto-Ovo Vegetarian",
+	"ingredients": "Squash, tomatoes, paprika, olive oil, jalapenos",
+	"time": "20 minutes",
+	"image": "./assets/images/squashspaghetti.jpg"
+	},
+	{
+	"id": 9,
+	"name": "Fresh spring rolls", 
+	"description": "These spring rolls are refreshing, colorful and fun to make.  You can also add tofu (although you really can’t pack enough into the rolls to make it worthwhile) and shrimps - best mix ever!",
+	"calories": "248",
+	"dishtype": "Lunch",
+	"lifestyle": "Vegetarian",
+	"ingredients": "Thin rice noodles, butter lettuce, peanutbutter sauce, carrot, cucumber, shrimps, tofu",
+	"time": "25 minutes",
+	"image": "./assets/images/freshspringrolls.gif"
+	},
+	
+	{
+	"id": 10,
+	"name": "Thai mango cabbage wraps",
+	"description": "Mango salsa, crispy baked tofu and an irresistible peanut sauce on cabbage leaves. These salad wraps are light and delicious! Recipe yields 6 to 8 salad wraps. See notes to learn how to make it vegan and/or gluten free.",
+	"calories": "205",
+	"dishtype": "Dinner",
+	"lifestyle": "Vegan",
+	"ingredients": "Cabbage, mango, sweet chilli sauce", 
+	"time": "15 minutes",
+	"image": "./assets/images/magocabbage.jpg"
+	}
+	
+]
+}
